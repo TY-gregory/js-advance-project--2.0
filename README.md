@@ -3,7 +3,7 @@
   <h3 align="center">WHERE DO YOU WANT TO GO ?</h3>
 
   <p align="center">
-    cities' life quality of life
+  Quality of life in cities
   </p>
 </p>
 
@@ -36,13 +36,14 @@ The user by typing in the name of the desired city will find a set of statistics
 
 - the total score of the city and a brief description of it
 - the partial scores of various indicators such as: housing, cost of living, startups, venture capital, travel connectivity, commuting, business freedom, safety, health, education, environmental quality, economy, taxation, Internet access, leisure and culture, tolerance, and outdoor life.
-
+-I made with chart.js a graph to more effectively represent data on scores .
 ### Built With
 
 - [HTML 5](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
 - [CSS 3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=it)
 - [Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
+- [Chart.js]( https://www.chartjs.org/docs/latest/ /)
 
 ## Getting Started
 
