@@ -7,6 +7,10 @@
   </p>
 </p>
 
+
+<img src="![Screenshot (45)](https://github.com/TY-gregory/js-advance-project--2.0/assets/102044033/f5f3e4ea-66b0-4070-b96f-522fb9cc9031)
+" width="50%" height="50%">
+
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
