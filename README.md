@@ -43,7 +43,7 @@ The user by typing in the name of the desired city will find a set of statistics
 - [CSS 3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript?retiredLocale=it)
 - [Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
-- [Chart.js]( https://www.chartjs.org/docs/latest/ /)
+- [Chart.js]( https://www.chartjs.org/docs/latest/)
 
 ## Getting Started
 
