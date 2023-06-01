@@ -45,6 +45,8 @@ The user by typing in the name of the desired city will find a set of statistics
 - [Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
 - [Chart.js]( https://www.chartjs.org/docs/latest/)
 
+## Try it by clicking here :  - [LIFE-QUALITY-APP](https://city-life-quality-app.netlify.app//)
+
 ## Getting Started
 
 ### Prerequisites
